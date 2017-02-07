@@ -1,0 +1,14 @@
+/*
+Theme Name: Apex
+Theme URI: http://themeforest.net/item/apex-responsive-wordpress-theme/4350000
+Author: Digital Science
+Author URI: http://www.digitalscience.za.org/
+Description: Apex Responsive WordPress Theme offers a unique intuitive interface, featuring the ability to create a trendy one page layout design, and 6 built in colour themes. You can also easily customize colours and styling with many built-in content settings. Built on Bootstrap 3, Apex has been carefully crafted to offer a reliable and robust theme for your project.
+Version: 1.1.30
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, right-sidebar, left-sidebar, fluid-layout, responsive-layout, custom-menu, editor-style, featured-images, theme-options, translation-ready
+Text Domain: apex
+*/
+
+@import url(assets/css/style.css);
